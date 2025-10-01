@@ -1,6 +1,6 @@
 # BorisFritz Hanger!
 
-Hey all!  Just wanted to keep a running list of what my current ships are that I own through both pledges and in-game aquisition.  
+Hey all!  Just wanted to keep a running list of what my current ships are that I own through both pledges and in-game aquisition.
 I decided to list them in a combat/non-combat list based on how I tend to use the ship, though some have multiple roles both in and out of combat.
 Pledge Ships with an asterisk next to them are on the 'chopping block' so to speak.  They are the first ships I am considering for melting down and changing or have been bought as an 'LTI token'.
 
