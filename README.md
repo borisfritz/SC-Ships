@@ -43,3 +43,17 @@ Hey all!  Just wanted to keep a running list of what my current ships are that I
 - Capital
     - _Misc_ Odyssey
     - _RSI_ Orion
+
+## Loaned Ships
+
+- From: _RSI_ Orion
+    - _Argo_ Mole
+- From: _Misc_ Odyssey
+    - _Anvil_ Carrack
+    - _Misc_ Reliant Kore
+- From: _Anvil_ Crucible
+    - _RSI_ Constellation Andromeda
+
+## In-Game Purchases
+
+WIP
