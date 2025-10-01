@@ -11,7 +11,7 @@ Pledge Ships with an asterisk next to them are on the 'chopping block' so to spe
         - _RSI_ **Ursa Medivac**
 - Snub Ships
     - Non-Combat
-        \*_Argo_ **MPUV Tractor**
+        - \*_Argo_ **MPUV Tractor**
 - Small Ships
     - Starter Ships
         - \*_Crusader_ **Intrepid**
