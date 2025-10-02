@@ -56,6 +56,13 @@ Pledge Ships with an asterisk next to them are on the 'chopping block' so to spe
     - _Misc_ **Reliant Kore**
 - From: _Anvil_ **Crucible**
     - _RSI_ **Constellation Andromeda**
+- _Source Unknown_
+    - _Anvil_ Arrow
+    - _Anvil_ C8R Pisces
+    - _Anvil_ Gladiator
+    - _Drake_ Buccaneer
+    - _RSI_ Aurora LN
+    - _Vandul_ Scythe
 
 ## In-Game Purchases
 
