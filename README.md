@@ -6,64 +6,56 @@ Pledge Ships with an asterisk next to them are on the 'chopping block' so to spe
 
 ## Pledge Ships
 
-- Vehicles
-    - Non-Combat
-        - _RSI_ **Ursa Medivac**
-- Snub Ships
-    - Non-Combat
-        - \*_Argo_ **MPUV Tractor**
-- Small Ships
-    - Starter Ships
+### -Ground Vehicles and Snub Ships
+
+- _RSI_ **Ursa Medivac**
+- \*_Argo_ **MPUV Tractor**
+
+### -Space Ships
+
+- **Solo Ships**
+    - Run-abouts
         - \*_Crusader_ **Intrepid**
         - _Origin_ **315p**
+        - ++_Misc_ **Reliant Kore**
+        - ++_Anvil_ **C8R Pisces**
+        - ++_RSI_ **Aurora LN**
     - Combat
         - _Kruger_ **L-21 Wolf**
+        - ++_Drake_ **Buccaneer**
+        - _Vandul_ **Scythe**
         - _Anvil_ **F7C-S Hornet Ghost Mk II**
         - \*_Mirai_ **Guardian MX**
         - _Crusader_ **Ares Star Fighter Inferno**
-    - Non-Combat
+        - ++_Anvil_ **Arrow**
+    - Medical
         - _Anvil_ **C8R Pisces Rescue**
+    - Industrial
         - _Drake_ **Golem**
         - _Misc_ **Prospector**
         - _Argo_ **SRV**
         - _Drake_ **Vulture**
-- Medium ships
+- **Flexi-crew Ships**
     - Combat
+        - ++_Anvil_ Gladiator
         - _Crusader_ **A1 Spirit**
         - _Anvil_ **Asgard**
-    - Non-Combat
+        - _RSI_ **Constellation Taurus**
+        - ++_RSI_ **Constellation Andromeda**
+    - Cargo Ships
         - _Crusader_ **C1 Spirit**
-- Large Ships
+        - _Crusader_ **C2 Hercules Starlifter**
+    - Medical Ships
+        - _RSI_ **Apollo Medivac**
+- **Multi-Crew Ships**
     - Combat
         - _Aegis_ **Retaliator**
-        - _RSI_ **Constellation Taurus**
+        - _Anvil_ **Paladin**
     - Non-Combat
-        - _RSI_ **Apollo Medivac**
-        - _Crusader_ **C2 Hercules Starlifter**
-        - _Anvil_ **Crucible**
-- Extra Large Ships
-- Capital
+        - ++_Anvil_ **Carrack**
+    - Industrial
+        - ++_Argo_ **Mole**
+- **Unreleased Ships**
+    - _Anvil_ **Crucible**
     - _Misc_ **Odyssey**
-    - \*_RSI_ **Orion**
-
-## Loaned Ships
-
-- From: _RSI_ **Orion**
-    - _Argo_ **Mole**
-    - _Misc_ **Prospector**
-- From: _Misc_ **Odyssey**
-    - _Anvil_ **Carrack**
-    - _Misc_ **Reliant Kore**
-- From: _Anvil_ **Crucible**
-    - _RSI_ **Constellation Andromeda**
-- _Source Unknown_
-    - _Anvil_ Arrow
-    - _Anvil_ C8R Pisces
-    - _Anvil_ Gladiator
-    - _Drake_ Buccaneer
-    - _RSI_ Aurora LN
-    - _Vandul_ Scythe
-
-## In-Game Purchases
-
-**WIP**
+    - _RSI_ **Orion**
